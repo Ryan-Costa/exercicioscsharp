@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.exe
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.deps.json
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.runtimeconfig.json
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.dll
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.pdb
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.AssemblyInfo.cs
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.dll
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.pdb
+C:\temp\ws-vs2019\Exercicios\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.genruntimeconfig.cache
