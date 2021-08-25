@@ -1,0 +1,14 @@
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.exe
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.deps.json
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.runtimeconfig.json
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.runtimeconfig.dev.json
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.dll
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\bin\Debug\netcoreapp3.1\Exercicio-5.pdb
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.csproj.AssemblyReference.cache
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.AssemblyInfoInputs.cache
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.AssemblyInfo.cs
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.csproj.CoreCompileInputs.cache
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.dll
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.pdb
+C:\Users\ryancosta\Desktop\CursoCSharp\ExercíciosPropostosPt2\Exercicio-5\obj\Debug\netcoreapp3.1\Exercicio-5.genruntimeconfig.cache
